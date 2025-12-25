@@ -13,5 +13,5 @@ pip install -r requirements.txt
 **Starting auto tests**
 
 ```
-python -m pytest
+python -m pytest --headed --browser chromium
 ```
